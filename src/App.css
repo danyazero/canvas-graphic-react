@@ -1,0 +1,10 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+}
+
+.inputs{
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+}
